@@ -84,4 +84,7 @@ Para a execução basta rodar os seguintes comandos:
 ---
 
 Poposto com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+---
+
 Feito com ♥ by ME 
